@@ -1,4 +1,5 @@
 # operasi aritmatika
+# ini adalah operasi aritmatika sederhana
 a = 21
 b = 5
 

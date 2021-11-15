@@ -1,4 +1,5 @@
 # latihan konversi temperature
+# ini adalah latihan perhitungan dasar sederhana
 
 # program konversi satuan celcius ke satuan lainnya
 print("==PROGRAM KONVERSI TEMPERATURE CELCIUS==")

@@ -1,4 +1,4 @@
-# operasi logika sederhana 
+# ini adalah operasi logika sederhana 
 # not, or, and, xor
 
 # NOT

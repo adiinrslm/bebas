@@ -22,7 +22,5 @@ print("nilai a =", a)
 b = a
 print("nilai b=", b)
 
-# tipe data
-
 
 

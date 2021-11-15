@@ -1,4 +1,5 @@
 # data yang dimasukan pasti berupa string
+# input data sederhana
 data = input("masukan data : ")
 print("data = ",data, ",type =", type(data))
 

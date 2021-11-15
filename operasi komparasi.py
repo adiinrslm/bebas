@@ -1,5 +1,6 @@
 # Operasi komparasi
 # Data yang dihasilkan pasti berupa boolean ( true/false )
+# ini adalah operasi komparasi sederhana
 # >,<,>=,<=,==,!=,is,is not
 
 a = 10

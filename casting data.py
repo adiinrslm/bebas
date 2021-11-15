@@ -1,4 +1,5 @@
 # casting adalah merubah tipe data satu ke tipe data yang lain
+# ini adalah contoh casting data sederhana
 
 #integer
 print("====INTEGER===")

@@ -1,3 +1,4 @@
+# ini adalah tipe data sederhana
 # tipe data integer = satuan
 print("===INTEGER===")
 data_integer = 21
