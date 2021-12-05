@@ -4,9 +4,9 @@
 print("===IF===")
 score = int(input("Enter your score: "))
 
-if score >= 75:
+if score > 75:
      print("Congratulations you have passed the exam")
-if score < 75:
+if score <= 75:
      print("Sorry, you have failed the exam")
      print("Don\'t give up, you can try again")
 
