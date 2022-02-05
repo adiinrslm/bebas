@@ -15,7 +15,7 @@ print(type(True))
 def my_function():
     pass
 
-print(type(my_function)
+print(type(my_function))
 
 # The dir() function
 numbers_list = [1, 2]
