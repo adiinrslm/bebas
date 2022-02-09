@@ -1,9 +1,9 @@
 # exceptions
 # write a program that will give us an error
-numerator = 10
-denominator = 0
+#numerator = 10
+#denominator = 0
 
-print(numerator/denominator)
+#print(numerator / denominator)
 # Even though our code was correct syntax wise, it's not allowed to divide a number by 0 in Python. 
 # This is an exception. In this case, we are getting the ZeroDivisionError exception.
 
